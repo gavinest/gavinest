@@ -1,4 +1,4 @@
-## Welcome to my GitHub <a href="https://www.estenssorog.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# Welcome to my GitHub <a href="https://www.estenssorog.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 Learn more about me and my projects at [estenssorog.com](https://www.estenssorog.com).
 
