@@ -2,6 +2,10 @@
 
 I'm a software developer from Colorado. Learn more about me and my projects at [estenssorog.com](https://www.estenssorog.com).
 
+## My Technology Stack
+
+![](https://img.shields.io/badge/code-python-blue?style=plastic&logo=python&logoColor=abb2bf&labelColor=282c34&color=%2356b6c2)
+
 ## Latest [Blog](https://www.estenssorog.com) Posts
 <!-- BLOG-POST-LIST:START -->
 - [GCloud Configs for Personal and Work Projects](https://estenssorog.com/posts/gcloud-configs-for-personal-and-work/)
