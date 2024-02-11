@@ -17,9 +17,9 @@ I'm a software developer from Colorado. Learn more about me and my projects at [
 
 ## Latest [Blog](https://www.estenssorog.com) Posts
 <!-- BLOG-POST-LIST:START -->
+- [Devcontainers That Feel Like Home](https://estenssorog.com/posts/devcontainers-that-feel-like-home/)
 - [Devcontainers: Persist .zsh_history](https://estenssorog.com/posts/devcontainers-persist-zsh-history/)
 - [Trigger a Cloud Function from a Google Sheet Change](https://estenssorog.com/posts/trigger-a-cloud-function-from-a-google-sheet-change/)
 - [Easy Dotfiles with Chezmoi](https://estenssorog.com/posts/easy-dotfiles-with-chezmoi/)
 - [GCloud Configs for Personal and Work Projects](https://estenssorog.com/posts/gcloud-configs-for-personal-and-work/)
-- [JSON Encode Anything in Python](https://estenssorog.com/posts/json-encode-everything-in-python/)
 <!-- BLOG-POST-LIST:END -->
