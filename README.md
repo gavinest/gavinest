@@ -19,9 +19,9 @@ I'm a software engineer based in Colorado.
 
 ## Latest [Blog](https://www.gavinest.com) Posts
 <!-- BLOG-POST-LIST:START -->
+- [test](https://gavinest.com/posts/test/)
 - [Devcontainers That Feel Like Home](https://gavinest.com/posts/devcontainers-that-feel-like-home/)
 - [Devcontainers: Persist .zsh_history](https://gavinest.com/posts/devcontainers-persist-zsh-history/)
 - [Trigger a Cloud Function from a Google Sheet Change](https://gavinest.com/posts/trigger-a-cloud-function-from-a-google-sheet-change/)
 - [Easy Dotfiles with Chezmoi](https://gavinest.com/posts/easy-dotfiles-with-chezmoi/)
-- [GCloud Configs for Personal and Work Projects](https://gavinest.com/posts/gcloud-configs-for-personal-and-work/)
 <!-- BLOG-POST-LIST:END -->
