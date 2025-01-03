@@ -1,6 +1,8 @@
 # Welcome to my GitHub <a href="https://www.gavinest.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm a software developer from Colorado. Learn more about me and my projects at [gavinest.com](https://www.gavinest.com).
+[gavinest.com](https://www.gavinest.com)
+
+I'm a software engineer based in Colorado.
 
 ## My Technology Stack
 
