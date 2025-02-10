@@ -4,7 +4,7 @@ Checkout my [blog](https://www.gavinest.com) where I write about software develo
 
 My latest project is setting up a homelab. More details to come.
 
-I am the creator and maintainer of [ZeroOffset](https://gavinest.com/projects/zero-offset/).
+I am the creator and maintainer of open source project [ZeroOffset](https://gavinest.com/projects/zero-offset/).
 
 ## My Technology Stack
 
