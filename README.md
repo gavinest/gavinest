@@ -1,8 +1,10 @@
 # Welcome to my GitHub <a href="https://www.gavinest.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-[gavinest.com](https://www.gavinest.com)
+Checkout my [blog](https://www.gavinest.com) where I write about software development, productivity, and other things I find interesting.
 
-I'm a software engineer based in Colorado.
+My latest project is setting up a homelab. More details to come.
+
+I am the creator and maintainer of [ZeroOffset](https://gavinest.com/projects/zero-offset/).
 
 ## My Technology Stack
 
