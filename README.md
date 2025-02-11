@@ -10,7 +10,7 @@ I am also the creator and maintainer of [ZeroOffset](https://gavinest.com/projec
 
 ## 🛠️ My Tech Stack
 
-I know little about a lot, but these are my core technologies.
+I know a little about a lot, but these are my core technologies.
 
 ![](https://img.shields.io/badge/code-python-blue?style=plastic&logo=python&logoColor=abb2bf&labelColor=282c34&color=%2356b6c2)
 ![](https://img.shields.io/badge/shell-bash-blue?style=plastic&logo=gnu-bash&logoColor=abb2bf&labelColor=282c34&color=%2356b6c2)
