@@ -25,9 +25,9 @@ I know a little about a lot, but these are my core technologies.
 
 ## ✍️ Latest [Blog](https://www.gavinest.com) Posts
 <!-- BLOG-POST-LIST:START -->
+- [Revive An Old Macbook With Arch Linux](https://gavinest.com/posts/revive-an-old-macbook-with-arch-linux/)
 - [Unlock Mac Productivity with Hammerspoon](https://gavinest.com/posts/unlock-mac-productivity-with-hammerspoon/)
 - [ZeroOffset: Toggle UTC time in the menubar](https://gavinest.com/projects/zero-offset/)
 - [Devcontainers That Feel Like Home](https://gavinest.com/posts/devcontainers-that-feel-like-home/)
 - [Devcontainers: Persist .zsh_history](https://gavinest.com/posts/devcontainers-persist-zsh-history/)
-- [Trigger a Cloud Function from a Google Sheet Change](https://gavinest.com/posts/trigger-a-cloud-function-from-a-google-sheet-change/)
 <!-- BLOG-POST-LIST:END -->
